@@ -15,3 +15,17 @@ A real-time multiplayer game where everyone gets to play god
 - character has to move towards something. 2 players manipulating environment to get the character where they want to be
 - hungry. eat to fill the void
 
+# Technologies
+
+- web-based. pwa
+- webgl
+- webassembly
+- phaser
+- babylonjs
+- melonjs
+
+# Requirements
+
+- create room and play with friends
+- real-time
+- different stages
